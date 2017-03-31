@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UberGameboyEmulator
+namespace UberGameboyCore
 {
     class DataBus16Bit
     {
